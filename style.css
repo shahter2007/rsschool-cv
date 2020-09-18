@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://storge.pic2.me/c/1360x800/624/596e3a88e7eae.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.white {
+  color: #fffafa;
+}
+
+.inner {
+  width: 50%;
+  border: 5px solid #000000;
+  margin: auto;
+}
